@@ -16,6 +16,8 @@ Based on my analysis of the green stocks for the years 2017 and 2018, the only t
 After writing the code that works for different green stocks rather than only one, I decided to refactor the code so that it can run faster and more efficiently. Refactoring my code reduced the analysis run time significantly for each year. For 2017 it reduced the run time 0.758 second and for 2018 it reduced it by 0.7188 second which can be viewed in the images below. I did this by creating arrays to hold elements and therefore avoiding changing between different worksheets and lowering the steps. I made the code more readable by adding comments.
 
 ![](/Resources/VBA_Challenge_2017.png)
+
+
 ![](/Resources/VBA_Challenge_2018.png)
 
 

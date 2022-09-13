@@ -17,7 +17,6 @@ After writing the code that works for different green stocks rather than only on
 
 
 ![](/Resources/VBA_Challenge_2017.png)
-
 ![](/Resources/VBA_Challenge_2018.png)
 
 
